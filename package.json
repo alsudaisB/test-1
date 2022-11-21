@@ -37,6 +37,7 @@
     "canvacord": "^5.1.0",
     "chalk": "4.1.2",
     "cheerio": "^1.0.0-rc.12",
+    "chromium": "^3.0.3",
     "colors": "1.4.0",
     "dotenv": "^10.0.0",
     "easy-tiktok-scraper": "^1.0.1",

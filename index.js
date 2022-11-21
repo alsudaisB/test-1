@@ -9,7 +9,8 @@ const HandleMsg = require('./HandleMsg')
 const StickerMetadata = { author: 'made with luv', pack: '@thoriqazzikraa', keepScale: true }
 const errorpicture = 'https://telegra.ph/file/9bf33892d51e063b46890.jpg'
 const uaOverride = process.env.UserAgent
-const botnum = '6289520360716@c.us'
+const botnum = '62888804225115@c.us'
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
 
 const sleep = async (ms) => {
         return new Promise(resolve => setTimeout(resolve, ms))
